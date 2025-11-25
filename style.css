@@ -40,7 +40,7 @@ h2 {
 .grid-3-cols {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  column-gap: 70px;
+  column-gap: 80px;
 }
 
 .btn:link,
